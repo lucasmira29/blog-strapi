@@ -1,4 +1,4 @@
-# Projeto Demonstrativo com Strapi
+# Projeto Demonstrativo com Strapi <img src="blog/public/img/strapi-logo.png" alt="Strapi Logo" style="width: 32px; vertical-align: middle;" />
 
 Este é um projeto demonstrativo para exemplificar o funcionamento do Strapi, um CMS headless que permite a criação e gerenciamento de APIs de forma rápida e eficiente.
 
