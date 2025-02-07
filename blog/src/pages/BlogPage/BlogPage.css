@@ -1,0 +1,18 @@
+.blog-content-container {
+  display: flex;
+  flex-direction: column;
+  padding: 0 200px;
+  text-align: justify;
+}
+
+.blog-content-container > h1 {
+  font-size: 2rem;
+}
+
+.blog-content-container > h3 {
+  font-size: 1.5rem;
+}
+
+.blog-content-container > p, li {
+  font-size: 1.2rem;
+}

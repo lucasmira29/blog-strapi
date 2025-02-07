@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_ui_buttons",
+  "info": {
+    "displayName": "button",
+    "icon": "apps",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "buttonText": {
+      "type": "string"
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "primary",
+        "secondary"
+      ],
+      "default": "primary",
+      "required": true
+    }
+  }
+}
